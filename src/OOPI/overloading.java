@@ -1,4 +1,4 @@
-package OOPII;
+package OOPI;
 
 public class overloading {
     //Overloading by changing the numbers of parameters

@@ -1,4 +1,4 @@
-package oop;
+package OOPII;
 
 public class Lamp {
     //stores the value for light

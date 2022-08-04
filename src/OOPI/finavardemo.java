@@ -1,6 +1,4 @@
-package OOPII;
-
-import com.sun.xml.internal.ws.addressing.WsaActionUtil;
+package OOPI;
 
 /*
 In Java, the final keyword is used to denote constants. It can be used with variables, methods, and classes.
@@ -37,7 +35,10 @@ public class finavardemo {
 
         System.out.println("Age : " + AGE);
 
-        Main obj = new Main();
-        obj.display();
+        finavardemo obj = new finavardemo();
+        //Main obj = new Main();
+        //obj.display()
+
+        //result of the program is overriden method is final
     }
 }

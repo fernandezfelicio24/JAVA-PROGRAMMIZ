@@ -1,6 +1,4 @@
-package OOPII;
-
-import javax.sound.midi.Soundbank;
+package OOPI;
 
 /*
 In Java, a string is a sequence of characters. For example, "hello"

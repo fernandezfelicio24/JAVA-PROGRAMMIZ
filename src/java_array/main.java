@@ -5,7 +5,7 @@
  */
 package java_array;
 
-import oop.Lamp;
+import OOPII.Lamp;
 
 /**
  *
