@@ -1,4 +1,6 @@
-package NestedAndInnerClass;
+package NestedAndInnerClass.Example1;
+
+import NestedAndInnerClass.Example1.CPU;
 
 public class Main {
     public static void main(String[] args) {

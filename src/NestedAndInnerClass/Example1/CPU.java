@@ -1,5 +1,13 @@
-package NestedAndInnerClass;
+package NestedAndInnerClass.Example1;
 
+/*
+Non-Static Nested Class (Inner Class)
+A non-static nested class is a class within another class. It has access to members of the enclosing class (outer class). It is commonly known as inner class.
+
+Since the inner class exists within the outer class, you must instantiate the outer class first, in order to instantiate the inner class.
+
+Here's an example of how you can declare inner classes in Java.
+ */
 public class CPU {
 
     double price;
