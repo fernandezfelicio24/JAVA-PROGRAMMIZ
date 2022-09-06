@@ -1,0 +1,12 @@
+package OOPIII.JavaExceptionsLearn.Example3;
+
+public class Main {
+
+    public static void divideByZero(){
+        //throw an exception
+        throw new ArithmeticException("Tryin to divide by 0");
+    }
+    public static void main(String[] args) {
+        divideByZero();
+    }
+}
