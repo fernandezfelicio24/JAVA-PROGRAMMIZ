@@ -1,4 +1,4 @@
-package OOPIII.JavaExceptionsLearn.Example1;
+package ExceptionHandling.JavaExceptionsLearn.Example1;
 
 public class Main {
     public static void main(String[] args) {

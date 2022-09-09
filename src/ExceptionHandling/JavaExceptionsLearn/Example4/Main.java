@@ -1,4 +1,4 @@
-package OOPIII.JavaExceptionsLearn.Example4;
+package ExceptionHandling.JavaExceptionsLearn.Example4;
 
 import java.io.File;
 import java.io.FileInputStream;
